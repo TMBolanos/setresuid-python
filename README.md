@@ -1,0 +1,2 @@
+# setresuid-python
+setresuid script 
